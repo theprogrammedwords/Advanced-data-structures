@@ -46,3 +46,5 @@ Key Functionality :
  
 Our application performs clustering in a unique way of its own. Suppose there are 10-12 items or markers mapped in the graph, the clustering takes place on the basis of consideration of the markers present in the vicinity. And our algorithm considers a marker which can take the form of a cluster or vice versa, to and fro.  This too is done with the help of a design pattern “Composite Design Pattern” which allows to make the marker change its forms dynamically at the runtime. The more markers are mapped, the more is the dynamicity. 
 
+
+NOTE : compex.zip is the main project source zip file
