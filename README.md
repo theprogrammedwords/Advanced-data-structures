@@ -1,7 +1,5 @@
 # ADS-ASSIGNMENT
 
-Advanced Data Structure, Project based learning Assignment submission made by contributors having Roll number 50 and 51 alias Ashish Prasad and Atharva Kasangottuwar respectively.
-
 Problem Definition :
 
 A graph consisting of edges and vertices is given as input. Implement randomized graph contraction algorithm and generate new graph of 25% size. The approach should allow expansion of graph as per the user input to size 50%, 75% and 100%. The suitable data structure can be used during contraction and expansion process.
@@ -50,3 +48,7 @@ Our application performs clustering in a unique way of its own. Suppose there ar
 NOTE : 
 1. compex.zip is the main project source zip file
 2. PDF named as 'Project based Learning assignment' is the file for more reference on project.
+
+Contributors :
+1. Atharva Kasangottuwar
+2. Ashish Prasad 
