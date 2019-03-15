@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">compex</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_key">AIzaSyDtD7zp_W-OYJOoHAaH4r0EgvLBA0EDGF8</string>
+</resources>
