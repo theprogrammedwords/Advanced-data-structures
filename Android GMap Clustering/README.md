@@ -4,8 +4,7 @@
 
 A graph consisting of edges and vertices is given as input. Implement randomized graph contraction algorithm and generate new graph of 25% size. The approach should allow expansion of graph as per the user input to size 50%, 75% and 100%. The suitable data structure can be used during contraction and expansion process.
 
-**
-Problem description :**
+**Problem description :**
 
 A contraction graph is basically an application of the clustering concept. Contraction is an operation which removes an edge or vertex from a graph while simultaneously merging the two vertices that it previously joined. In a graph or any group of connected 'n' nodes, a graph can store intermediate results during contraction in a cluster wherein multiple nodes can get grouped to form an other node. Whilst during expansion, such same node which were clustered gets the opportunity to get de-clustered and thus, the nodes regain their original positions.
 
